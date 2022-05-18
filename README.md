@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/-@danamitecoder-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/danalee1/" target="_blank">
-    <img src="https://img.shields.io/badge/-Alexis Aguilar-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-Dana Lee-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:alexmerona@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-alexmerona@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-theoriginaldanalee@gmail.com-961711?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
