@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/danamitecoder" target="_blank">
-    <img src="https://img.shields.io/badge/-@alexisintech-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-@danamitecoder-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/danalee1/" target="_blank">
     <img src="https://img.shields.io/badge/-Alexis Aguilar-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
