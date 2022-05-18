@@ -1,12 +1,12 @@
 <img src="draft8.jpg" width="100%">
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;forever+learning;mental+health+advocate;fitness+enthusiast" </p>
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=961711&vCenter=true&center=true&width=460&lines=software+engineer;instructional+leader;mindfulness;" </p>
 
 <p align="center">
-  <a href="https://twitter.com/alexisintech" target="_blank">
+  <a href="https://twitter.com/danamitecoder" target="_blank">
     <img src="https://img.shields.io/badge/-@alexisintech-961711?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/alexisintech/" target="_blank">
+  <a href="https://www.linkedin.com/in/danalee1/" target="_blank">
     <img src="https://img.shields.io/badge/-Alexis Aguilar-961711?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:alexmerona@gmail.com" target="_blank">
@@ -16,9 +16,9 @@
 
 <!-- ABOUT ME -->
 
-<h2 align="center" color="white">About Me 🖤</h2>
+<h2 align="center" color="white">About Me</h2>
 <p align="center">
-Hello! I'm Alexis and I'm a full stack software engineer passionate about delivering creative designs and organized, polished code. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
+Hello! I'm Dana and I'm a full stack software engineer passionate about delivering creative designs and organized, polished code. I love using my skills to make visions become reality. Aside from programming, I enjoy weight lifting, mental health advocation, constantly learning, and forever growing. #CommunityTaught
 <p>
 </br>
 </br>
@@ -32,7 +32,7 @@ Hello! I'm Alexis and I'm a full stack software engineer passionate about delive
 			<td width="50%">
 				<h3 align="center" color="white">Personal Portfolio</h2>
 				<div align="center" >  
-					<a href='https://alexisintech.github.io/'>
+					<a href='https://danamitecoder.github.io/'>
 						<img src="https://github.com/alexisintech/alexisintech/blob/main/portfoliogif.gif" height="100%" />
 					</a>
 					<br>
