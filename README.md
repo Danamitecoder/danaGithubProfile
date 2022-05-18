@@ -48,7 +48,7 @@ Hello! I'm Dana and I'm a full stack software engineer passionate about deliveri
 					<p><strong>JavaScript, CSS3, HTML5</strong> - Portfolio site that showcases a few of my projects and includes ways to contact me.</p>
 				</div>
 			</td>
-			<td width="50%">
+			/*<td width="50%">
 				<h3 align="center" color="white">Tic Tac Toe</h2>
 				<div align="center" >  
 					<a href='https://alexisintech-tictactoe.netlify.app/'>
@@ -66,7 +66,7 @@ Hello! I'm Dana and I'm a full stack software engineer passionate about deliveri
 					</p>
 					 <p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
-			</td>
+			</td>*/
 		</tr>
 	</table>
 <br>
